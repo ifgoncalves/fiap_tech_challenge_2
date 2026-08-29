@@ -54,7 +54,7 @@ A Gold Streaming utiliza as metas já tratadas pelo pipeline Batch para comparar
 
 Os eventos Streaming utilizados no projeto são sintéticos e não representam resultados oficiais do INEP.
 
-Mais detalhes estão disponíveis em [docs/architecture/arquitetura.md](docs/architecture/arquitetura.md).
+Mais detalhes estão disponíveis em [docs/arquitetura.md](docs/arquitetura.md).
 
 ---
 
@@ -92,8 +92,7 @@ Mais detalhes estão disponíveis em [docs/architecture/arquitetura.md](docs/arc
         └── 01_validacao_qualidade
 
     docs/
-    ├── architecture/
-    │   └── arquitetura.md
+    ├── arquitetura.md
     └── finops.md
 
 ---
